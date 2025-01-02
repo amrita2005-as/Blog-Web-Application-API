@@ -6,9 +6,9 @@ A full-stack blog web application built with Node.js, Express, and a REST API ba
 - Create, Read, Update, and Delete blog posts.
 - REST API endpoints for managing blog posts.
 - Simple front-end interface using EJS templates.
-- In-memory data storage (posts are not saved permanently).
+- In-memory data storage.
 
 ## Technologies:
 - **Backend:** Node.js, Express
 - **Frontend:** EJS (Embedded JavaScript templates)
-- **Data Storage:** In-memory (no database used)
+- **Data Storage:** In-memory
